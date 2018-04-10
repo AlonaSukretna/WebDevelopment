@@ -1,0 +1,60 @@
+/* add your CSS here */
+#menu {
+ border-style: groove;
+}
+
+#placeholder {
+height: 10px;
+}
+
+.picture {
+  width: 300px;
+  border-style: groove;
+
+}
+.description {
+     font-style: italic;
+   }
+.span{
+     font-weight: bold;
+   }
+/*.item{
+  align-items: left;
+    list-style-type: none;
+      }
+*/
+.list{
+
+  list-style:none;
+  padding-left:0;
+}
+
+.header {
+  padding-bottom: 10px;
+}
+
+/* body {
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+.menu {
+	width: 15%;
+}
+.portfolio {
+	width: 85%;
+}
+.item {
+	width: 100%;
+	clear: both;
+}
+.item img {
+	float: left
+}
+.item span {
+	display: table-cell;
+	vertical-align: middle;
+	height: 240px;
+} */
