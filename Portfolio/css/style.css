@@ -1,0 +1,32 @@
+body{
+  font-family: calibri;
+  color: #2d3c49;
+}
+
+.imgseattle{
+  width: 100%;
+}
+
+.featuredwork{
+
+}
+
+.myprofile{
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.picture{
+  width:auto;
+}
+
+.line{
+  border: none;
+  height: 5px;
+  background-color: #7d97ad;
+}
+
+.copyright{
+  padding: 10px;
+  font-style: italic;
+}
